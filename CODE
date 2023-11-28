@@ -1,0 +1,11 @@
+
+Maaft command 
+
+mafft-qinsi --maxiterate 2 --thread 4 --threadtb 5 --threadit 0 --reorder input > output
+
+IQTREE command 
+
+#IQTREEPATH -s #DATASETPATH -m #MODEL -bb #NUMBEROFBOOTSTRAP
+
+
+-redo
